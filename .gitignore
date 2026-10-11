@@ -1,0 +1,9 @@
+# generated scenes (rebuild with ./build.sh) and downloaded CC0 assets (./setup_assets.sh)
+me_station.blend
+me_station_demo.blend
+*.blend1
+*.abc
+downloads/
+chars/test_*.blend
+__pycache__/
+*.pyc
